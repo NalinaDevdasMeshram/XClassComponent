@@ -14,7 +14,7 @@ return (
       <h1>Counter App</h1>
       <p>Count: {valueOfCount}</p>
       <button onClick={handleIncrement}>Increment</button>
-      <button onClick={handleDecrement}>Decremnet</button>
+      <button onClick={handleDecrement}>Decrement</button>
     </div>
   )
 }
